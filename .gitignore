@@ -1,0 +1,5 @@
+hidetopbar.zip
+schemas/gschemas.compiled
+*.po~
+*.mo
+locale/hidetopbar.pot-stamp

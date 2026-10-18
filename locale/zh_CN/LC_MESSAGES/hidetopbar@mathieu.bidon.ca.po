@@ -1,0 +1,102 @@
+# Chinese (Simplified) translation for the Hide Top Bar extension.
+# Copyright (C) 2021 Thomas Vogt
+# This file is distributed under the same license as the Hide Top Bar package.
+# Lequn Chen (abcdabcd987) <chenlequn22@gmail.com>, 2013.
+# 绿色圣光 <lishaohui.qd@163.com>, 2015.
+# Rubicon Rowe <l1589002388@gmail.com>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: hidetopbar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-26 18:45+0800\n"
+"PO-Revision-Date: 2022-03-26 19:15+0800\n"
+"Last-Translator: Rubicon Rowe <l1589002388@gmail.com>\n"
+"Language-Team: Chinese - China <>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 40.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: Settings.ui:65
+msgid "Show panel when mouse approaches edge of the screen"
+msgstr "鼠标靠近屏幕边沿时显示面板"
+
+#: Settings.ui:78
+msgid "In the above case, also show panel when fullscreen"
+msgstr "在全屏时应用上一条设置"
+
+#: Settings.ui:91
+msgid "Show panel in overview"
+msgstr "在活动概览中显示面板"
+
+#: Settings.ui:104
+msgid "Keep hot corner sensitive, even in hidden state"
+msgstr "面板隐藏时仍然保持热区敏感（可以呼出活动概览）"
+
+#: Settings.ui:117
+msgid "In the above case show overview, too"
+msgstr "如果上一条设置打开，呼出面板时也显示活动概览"
+
+#: Settings.ui:130
+msgid "Keep round corners when top bar is hidden"
+msgstr "隐藏顶部栏时保持圆角"
+
+#: Settings.ui:143
+msgid "Pressure barrier's threshold:"
+msgstr "边沿压力阈值："
+
+#: Settings.ui:156
+msgid "Pressure barrier's timeout:"
+msgstr "边沿压力超时时间："
+
+#: Settings.ui:268
+msgid "Sensitivity"
+msgstr "敏感度"
+
+#: Settings.ui:288
+msgid "Slide animation time when entering/leaving overview:"
+msgstr "进入/离开活动概览时面板滑动的动画时长"
+
+#: Settings.ui:301
+msgid "Slide animation time when mouse approaches edge of the screen:"
+msgstr "鼠标靠近屏幕上边沿时面板滑动的动画时长"
+
+#: Settings.ui:341
+msgid "Animation"
+msgstr "动画效果"
+
+#: Settings.ui:364
+msgid ""
+"Key that triggers the bar to be shown (press backspace to deactivate the "
+"shortcut):"
+msgstr "触发显示面板的快捷键（按Backspace键以禁用此快捷键）"
+
+#: Settings.ui:380
+msgid ""
+"Delay before the bar rehides after key press (a value of 0 disables the "
+"rehiding):"
+msgstr "面板在按下快捷键后被重新隐藏的延时（设置为0以禁用此特性）"
+
+#: Settings.ui:396
+msgid "Pressing the shortcut again rehides the panel"
+msgstr "再次按下快捷键时重新隐藏面板"
+
+#: Settings.ui:468
+msgid "Keyboard shortcuts"
+msgstr "键盘快捷键"
+
+#: Settings.ui:491
+msgid "Only hide panel when a window takes the space"
+msgstr "仅当有窗口占用面板空间时才隐藏面板"
+
+#: Settings.ui:507
+msgid "Only when the active window takes the space"
+msgstr "仅当活动窗口占用面板空间时才隐藏面板"
+
+#: Settings.ui:544
+msgid "Intellihide"
+msgstr "智能隐藏"

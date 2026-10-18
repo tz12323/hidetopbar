@@ -1,0 +1,98 @@
+# <LANGUAGE> translation for the Hide Top Bar extension.
+# Copyright (C) 2026 Thomas Vogt
+# This file is distributed under the same license as the Hide Top Bar package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide Top Bar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-29 18:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Settings.ui:65
+msgid "Show panel when mouse approaches edge of the screen"
+msgstr ""
+
+#: Settings.ui:78
+msgid "In the above case, also show panel when fullscreen"
+msgstr ""
+
+#: Settings.ui:91
+msgid "Show panel in overview"
+msgstr ""
+
+#: Settings.ui:104
+msgid "Keep hot corner sensitive, even in hidden state"
+msgstr ""
+
+#: Settings.ui:117
+msgid "In the above case show overview, too"
+msgstr ""
+
+#: Settings.ui:130
+msgid "Keep round corners when top bar is hidden"
+msgstr ""
+
+#: Settings.ui:143
+msgid "Pressure barrier's threshold:"
+msgstr ""
+
+#: Settings.ui:156
+msgid "Pressure barrier's timeout:"
+msgstr ""
+
+#: Settings.ui:268
+msgid "Sensitivity"
+msgstr ""
+
+#: Settings.ui:288
+msgid "Slide animation time when entering/leaving overview:"
+msgstr ""
+
+#: Settings.ui:301
+msgid "Slide animation time when mouse approaches edge of the screen:"
+msgstr ""
+
+#: Settings.ui:341
+msgid "Animation"
+msgstr ""
+
+#: Settings.ui:364
+msgid ""
+"Key that triggers the bar to be shown (press backspace to deactivate the "
+"shortcut):"
+msgstr ""
+
+#: Settings.ui:380
+msgid ""
+"Delay before the bar rehides after key press (a value of 0 disables the "
+"rehiding):"
+msgstr ""
+
+#: Settings.ui:396
+msgid "Pressing the shortcut again rehides the panel"
+msgstr ""
+
+#: Settings.ui:468
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: Settings.ui:491
+msgid "Only hide panel when a window takes the space"
+msgstr ""
+
+#: Settings.ui:507
+msgid "Only when the active window takes the space"
+msgstr ""
+
+#: Settings.ui:544
+msgid "Intellihide"
+msgstr ""
